@@ -3,7 +3,8 @@ import './menu.css'
 
 import Logo from '../../assets/logo.png'
 
-import ButtonLink from '../ButtonLink'
+//import ButtonLink from '../ButtonLink'
+import Button from '../Button/index'
 
 export default function Menu() {
     return (
@@ -13,9 +14,11 @@ export default function Menu() {
             </a>
 
 
-            <ButtonLink className="ButtonLink" href='/' >
+            <Button as='a' lassName="ButtonLink" href='/' >
                 Novo Video
-            </ButtonLink>
+            </Button>
+
+
                 
         </nav>
     )
