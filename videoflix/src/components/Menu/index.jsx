@@ -3,16 +3,20 @@ import './menu.css'
 
 import Logo from '../../assets/logo.png'
 
+import ButtonLink from '../ButtonLink'
+
 export default function Menu() {
     return (
-        <nav>
-            <a href="/" className='menu'>
+        <nav className='menu'>
+            <a href="/" >
                 <img className='logo' src={Logo} alt="logotipo videoflix" />
             </a>
 
-            <a href="/" className='ButtonLink'>
+
+            <ButtonLink className="ButtonLink" href='/' >
                 Novo Video
-            </a>
+            </ButtonLink>
+                
         </nav>
     )
 }
