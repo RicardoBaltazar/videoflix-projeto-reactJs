@@ -1,9 +1,11 @@
 import React from 'react'
 
+import PageDefault from '../../../components/pageDefault'
+
 export default function CadastroVideo() {
   return (
-    <div>
+    <PageDefault>
       Página de Cadastro de Vídeo
-    </div>
+    </PageDefault>
   )
 }
