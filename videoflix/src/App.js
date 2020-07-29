@@ -11,7 +11,7 @@ function App() {
   return (
     <div style={{ background: "#141414" }}>
       <Menu />
-
+    
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
@@ -35,6 +35,7 @@ function App() {
         category={dadosIniciais.categorias[3]}
       />      
 
+{/*
       <Carousel
         category={dadosIniciais.categorias[4]}
       />      
@@ -42,7 +43,7 @@ function App() {
       <Carousel
         category={dadosIniciais.categorias[5]}
       />      
-
+*/}
       <Footer />
     </div>
   );
