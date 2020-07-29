@@ -1,7 +1,7 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "PS1",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
@@ -10,36 +10,36 @@
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "The Last of Us Part II – Official Extended Commercial | PS4",
+          "url": "https://www.youtube.com/watch?v=TXl9GI1p_Os"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Tomb Raider Chronicles",
+          "url": "https://www.youtube.com/watch?v=4VqY3nawyDg"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Gran Turismo 2",
+          "url": "https://www.youtube.com/watch?v=ufctTzr1dbE"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Medal of Honor Underground",
+          "url": "https://www.youtube.com/watch?v=vYikjw88jRg"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Harry Potter and the Philosopher's Stone",
+          "url": "https://www.youtube.com/watch?v=xDH9ZZ3a5n8"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "RESIDENT EVIL 3: NEMESIS",
+          "url": "https://www.youtube.com/watch?v=wWuxgi_wBrM"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "SILENT HILL",
+          "url": "https://www.youtube.com/watch?v=t4OT8Wagqdo&t=1374s"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Driver 2",
+          "url": "https://www.youtube.com/watch?v=hfEF_z0JfcQ"
         }        
       ]
     },
