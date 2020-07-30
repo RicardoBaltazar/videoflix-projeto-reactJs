@@ -50,7 +50,7 @@ function CadastroCategoria() {
 
   return (
     <PageDefault>
-      <h1>Cadastro de Categoria: {values.nome}</h1>
+      <h1>Cadastro de Categoriassss: {values.nome}</h1>
 
       <form onSubmit={function handleSubmit(infosDoEvento) {
           infosDoEvento.preventDefault();
