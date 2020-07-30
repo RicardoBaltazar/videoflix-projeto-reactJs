@@ -29,3 +29,5 @@ server.listen(port, () => {
 
 //Agora acrescente o comando dev": "react-scripts start", no package.sjon 
 //e inicie o react com o comando npm run dev
+
+//a heroku usa o script start para rodar, e a vercel utiliza o script build para rodar
