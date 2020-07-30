@@ -21,3 +21,11 @@ server.listen(port, () => {
 
 //"server": "json-server --watch db.json --port 8080",  por
 //"server": "node ./server.js",
+
+//a heroku utiliza o comando scripts/start para rodar o servidor quando são códigos em javascript
+//sendo assim, temos que colocar o comando de iniciar o servidor no script start
+//e mudar o comando "start": "react-scripts start", PARA "start": "npm run server",
+//e agora o comando do terminal ' npm start ' vai rodar o servidor, e não mais o react
+
+//Agora acrescente o comando dev": "react-scripts start", no package.sjon 
+//e inicie o react com o comando npm run dev
