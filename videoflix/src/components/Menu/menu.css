@@ -6,8 +6,9 @@
     max-width: 168px;
   }
   @media (max-width: 800px) {
-    .Logo {
-      max-width: 105px;
+    .logo {
+      max-width: 168px;
+      
     }
   }
   
@@ -60,13 +61,14 @@
     display: inline-block;
     transition: opacity .3s;
   }
+  
   .ButtonLink:hover,
   .ButtonLink:focus {
     opacity: .5;
   }
   
   @media (max-width: 800px) {
-    a.ButtonLink {
+    .ButtonLink {
       position: fixed;
       left: 0;
       right: 0;

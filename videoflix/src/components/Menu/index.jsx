@@ -15,7 +15,7 @@ export default function Menu() {
             </Link>
 
 
-            <Button as={Link} lassName="ButtonLink" to='/cadastro/video' >
+            <Button as={Link} className="ButtonLink" to='/cadastro/video' >
                 Novo Video
             </Button>
 
