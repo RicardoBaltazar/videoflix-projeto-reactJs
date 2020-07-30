@@ -113,6 +113,7 @@ function CadastroCategoria() {
       </form>
       
 
+
       <ul>
         {categorias.map((categoria, indice) => {
           return (
